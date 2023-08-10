@@ -8,13 +8,10 @@
   
   
 
-- 🌱 I’m currently learning NodeJS and VueJS  
+- 🎓 I'm an undergraduate student in the Faculty Of Engineering, Electrical Department  
   
 
-- 🎓 I'm an undergraduate student in Faculty Of Engineering, Electrical Department  
-  
-
-- 🤖 I'm also learning Machine learning  
+- 🤖 I'm currently learning about Machine learning & AI Fields 
   
 
 - ❓ Ask me about anything related to PHP-Laravel or Python Development  
@@ -27,7 +24,6 @@
 <table><tr><td valign="top" width="33%">
 
 
-
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -37,7 +33,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
