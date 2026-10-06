@@ -14,8 +14,8 @@
 
 ### 🚀 About Me
 
-- 🎓 Graduated from the **Faculty of Engineering (Electrical Department)**.
-- ⚡ **Full-Stack Developer** building scalable web applications with Node.js, NestJS, Laravel, and modern frontend frameworks.
+- 🎓 **B.Sc. in Electronics & Communication Engineering** — Faculty of Engineering.
+- ⚡ **Full-Stack Developer** building scalable web applications with Node.js, NestJS, Next.js, Angular, Laravel, and modern frontend ecosystems.
 - ☁️ **DevOps & GitOps Specialist** automating CI/CD pipelines, orchestrating Kubernetes clusters, and managing Infrastructure as Code (IaC).
 - 🤖 Continuously expanding knowledge in **Machine Learning & AI** fields.
 
@@ -33,7 +33,11 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+        <br />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
         <br />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -53,7 +57,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ DevOps, Cloud & Security</h4>
+      <h4>⚙️️ DevOps, Cloud & Security</h4>
       <p>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
